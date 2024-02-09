@@ -23,5 +23,12 @@
     "nodemon": "^3.0.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@types/await-timeout": "^0.3.3",
+    "await-timeout": "^1.1.1",
+    "ethers": "^5.7.0",
+    "fs-extra": "^11.2.0",
+    "random": "^4.1.0"
   }
 }
