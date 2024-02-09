@@ -31,8 +31,8 @@ c0324e9a843aef4cc1a61895c9fc9138a2f6f0e2e0da5889904d7902aa027196
 ```json
 {
     "randomMode": true, // random wallet selection mode
-    "fromDelay": 2, // lower delay range
-    "toDelay": 4, // upper delay range
+    "fromDelay": 2, // lower delay range (seconds)
+    "toDelay": 4, // upper delay range (seconds)
     "fromAmount": 0.1, // the lower range of the ETH amount
     "toAmount": 1.9 // the upper range of the ETH amount
 }
